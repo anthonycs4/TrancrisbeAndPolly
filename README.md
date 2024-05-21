@@ -1,6 +1,5 @@
 # TrancrisbeAndPolly
 use of amazon transcribe and amazon polly with Python
 
-Tener instalado aws cli e ingresar credenciales con permisosde transcribefullaccess y polly
-
-tipear aws configure en terminal e ingresar las credenciales
+install aws cli and have user with credentials of polly and transcribe
+write "aws configure" and put credentials; secret key and id key of user with permissions 
